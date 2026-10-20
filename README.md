@@ -60,11 +60,9 @@ For each project, I want the code and documentation to explain:
 - How can another developer run it and verify its behavior?
 - What trade-offs remain, and what would I improve next?
 
-## GitHub Stats
+## Most Used Languages
 
 <div align="center">
-
-![Daisy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daisy-on&show_icons=true&hide_border=true&custom_title=Daisy%27s%20GitHub%20Stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daisy-on&layout=compact&hide_border=true)
 
