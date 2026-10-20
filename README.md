@@ -41,18 +41,7 @@ I build web applications with a focus on editing experiences, reliable data flow
 | [Duet - Backend](https://github.com/Daisy-on/duet-doc-backend) | FastAPI, PostgreSQL, and pgvector | Incremental sync with revision checks, streaming model responses, image-description indexing, and knowledge retrieval. |
 | [Xinqing Map](https://github.com/Daisy-on/xinqing_map) | Campus mood map and social application | Vue 3 and TypeScript interfaces for map-based content, mood tracking, charts, and social interactions. |
 | [Jikeyuan](https://github.com/Daisy-on/jikeyuan) | React forum project | Component-based frontend development and forum page interactions. |
-
-### Duet: From Writing to Knowledge Retrieval
-
-Duet is my independently developed document editor for personal knowledge management. It combines local editing and persistence with optional cloud sync and AI assistance.
-
-- **Editing:** local image nodes, syntax-highlighted code blocks, outline navigation, and inline completion previews that stay out of the document until accepted.
-- **Data reliability:** document and image storage are separate; local changes and sync tasks are saved together, with version history and explicit conflict handling.
-- **Browser-side AI:** Transformers.js runs completion and embedding models in Web Workers with WebGPU acceleration, model caching, and runtime switching.
-- **Grounded answers:** tool-driven retrieval combines local BM25 and vector search with cloud text and image-description search, and links answers back to their sources.
-- **Performance:** batched streaming updates, incremental Markdown rendering, and dynamically measured virtual lists for long conversations.
-
-[Explore the frontend](https://github.com/Daisy-on/duet-doc-app) · [Explore the backend](https://github.com/Daisy-on/duet-doc-backend)
+| [Resonance Tavern](https://github.com/Daisy-on/Resonance-Tavern) | Hackathon mini-game | A small game built during a hackathon. |
 
 ## Current Focus
 
